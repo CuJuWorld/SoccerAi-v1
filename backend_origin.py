@@ -49,7 +49,7 @@ TEAM_JERSEY_MAP = {
 }
 
 # 初始化Gemini
-client = genai.Client(api_key="AIzaSyACbfe8yCB7DMdNjiaASK-nGxbxMFZFHe0")
+client = genai.Client(api_key="")
 
 # 加载历史记录
 def load_history():
