@@ -98,12 +98,12 @@ pip install torch==1.13.1+cu117 torchvision==0.14.1+cu117 torchaudio==0.13.1 --e
 Run the following command in the notebook or just conda install the package:
 
 ```
-!pip install -U openmim
-!mim install mmengine
-!mim install mmcv==2.0.0rc4
-!mim install mmdet
-!mim install mmpose
-! mim install mmaction2
+!pip install mmengine
+!pip install mmcv==2.0.0rc4
+!pip install mmdet
+!pip install mmpose
+! pip install mmaction2
+! pip install numpy==1.26.4
 
 ```
 
